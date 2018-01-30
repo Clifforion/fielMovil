@@ -1,0 +1,8 @@
+{
+  "name": "fiel",
+  "app_id": "38918e0a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
